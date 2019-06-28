@@ -2,6 +2,13 @@
 
 百度云 [https://pan.baidu.com/s/1SNwckALG_VsaKecmPq--oA](https://pan.baidu.com/s/1SNwckALG_VsaKecmPq--oA) 提取码 `h3r4`  
 
+#### 法律声明
+
+本项目为公益项目，主要服务于`学生`群体  
+如有侵权，请发送邮件到 `hlzblog@vip.qq.com` 进行通知  
+云天河会对对应书籍进行下架处理  
+最终解释权归云天河所有  
+
 > 书籍目录
 
     ├── Database
