@@ -2,7 +2,7 @@
 
 百度云 [https://pan.baidu.com/s/12A8vnk1QgfpFG3Ixl3Bhzw](https://pan.baidu.com/s/12A8vnk1QgfpFG3Ixl3Bhzw) 提取码 `qw3s`  
 因`百度云`近日查得特别严  
-可能该链接的分享会被取消  
+该链接的分享可能会无效  
 大家可自行去百度搜索这些PDF
 
 #### 法律声明
